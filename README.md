@@ -49,3 +49,11 @@
       * You should get a list of all your apps
    * Type `/APP_NAME`:
       * You should get a message from your app
+
+
+Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCRzwgLpWiraAvDInpdhv7Aw" target="_blank">Developer Boys</a>.
+
+# Donate
+[BOOSTY]( https://boosty.to/devboys)
+[PATREON](https://www.patreon.com/devboys)
+
