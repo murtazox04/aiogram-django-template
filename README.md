@@ -51,9 +51,9 @@
       * You should get a message from your app
 
 
-Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCRzwgLpWiraAvDInpdhv7Aw" target="_blank">Developer Boys</a>.
+Please Subscribe my YouTube Channel: <a href="http://www.youtube.com/DeveloperBoys?sub_confirmation=1" target="_blank">Developer Boys</a>.
 
-# Donate
+# Donate for DevBoys
 [BOOSTY]( https://boosty.to/devboys)
 [PATREON](https://www.patreon.com/devboys)
 
